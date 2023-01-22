@@ -16,8 +16,8 @@
 
 Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.
 
-https://github.com/green307/Knyazev-9.5/blob/main/Задание2.jpg
-https://github.com/green307/Knyazev-9.5/blob/main/Задание2-1.jpg
+![alt text](https://github.com/green307/Knyazev-9.5/blob/main/Задание2.jpg)
+![alt text](https://github.com/green307/Knyazev-9.5/blob/main/Задание2-1.jpg)
 
 
 
@@ -26,5 +26,5 @@ https://github.com/green307/Knyazev-9.5/blob/main/Задание2-1.jpg
 
 Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.
 
-https://github.com/green307/Knyazev-9.5/blob/main/Задание3.jpg
-https://github.com/green307/Knyazev-9.5/blob/main/Задание3-1.jpg
+![alt text](https://github.com/green307/Knyazev-9.5/blob/main/Задание3.jpg)
+![alt text](https://github.com/green307/Knyazev-9.5/blob/main/Задание3-1.jpg)
